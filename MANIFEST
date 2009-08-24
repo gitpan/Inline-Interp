@@ -1,6 +1,8 @@
 MANIFEST
 README
 Makefile.PL
-Interp.pm
-Echo.pm
+lib/Inline/Interp.pm
+lib/Inline/Echo.pm
 t/01_basic.t
+t/02_data.t
+META.yml                                 Module meta-data (added by MakeMaker)
